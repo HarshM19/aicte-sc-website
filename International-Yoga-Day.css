@@ -1,0 +1,56 @@
+.event {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .event-header {
+    color: black;
+    display: flex;
+    flex-direction: column;
+  
+    align-items: start;
+    width: 60%;
+  }
+  
+  .event-heading {
+    font-size: 2.5rem;
+    width: 190%;
+    text-align: center;
+  }
+  
+  .event-subheading {
+    font-size: 1.5rem;
+    margin-top:10%;
+    padding-left:5%;
+    margin-left:10% ;
+    
+  }
+  
+  .event-description {
+    font-size: 1.5rem;
+    margin-right: 2rem;
+    margin-bottom: 0;
+  margin-left:15%;
+  
+  }
+  
+  .event-winners {
+  margin-left:15%;
+    font-size: 1.5rem;
+   
+  }
+  
+  .event-poster {
+    width: 50%;
+    object-fit: fill;
+  padding-right:5%;
+  margin-top: 10rem;
+  margin-left: 10%;
+  
+  }
+  .image{
+    width: 20vw;
+    flex-direction: row;
+    display: flex;
+margin: 2vh 2vh;  
+  }

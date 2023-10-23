@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inherit: inherit;
+  --font-abeezee: ABeeZee;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-8xl: 27px;
+}

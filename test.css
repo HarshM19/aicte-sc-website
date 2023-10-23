@@ -1,0 +1,302 @@
+.vivekanand-education-societys {
+  top: 151px;
+  left: 0;
+  font-size: var(--font-size-45xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+}
+.autonomous-institute-affiliate,
+.vesit-students-club,
+.vivekanand-education-societys {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+}
+.autonomous-institute-affiliate {
+  top: 240px;
+  left: 0;
+  font-size: 32px;
+  font-weight: 300;
+  font-family: var(--font-inter);
+}
+.vesit-students-club {
+  top: 291px;
+  left: 498px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-abeezee);
+  color: #017a2a;
+}
+.image-1-icon,
+.save-20230815-093027-icon,
+.vpc-logo-8-3 {
+  position: absolute;
+  top: 376px;
+  left: 348px;
+  width: 150px;
+  height: 279px;
+  object-fit: cover;
+}
+.image-1-icon,
+.save-20230815-093027-icon {
+  left: 523px;
+  width: 248px;
+}
+.image-1-icon {
+  left: 810px;
+  width: 257px;
+}
+.environment-day1 {
+  text-decoration: underline;
+}
+.environment-day {
+  color: inherit;
+}
+.environment-day-photos,
+.environment-day-report-container {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  line-height: 122.02%;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  text-align: center;
+  display: inline-block;
+  width: 270px;
+}
+.environment-day-report-container {
+  top: 768px;
+  left: 498px;
+  color: var(--font-inherit);
+  height: 36px;
+}
+.environment-day-photos {
+  top: 742px;
+  left: 503px;
+  text-decoration: underline;
+  color: inherit;
+}
+.international-yoga-day {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.international-yoga-day-container,
+.international-yoga-day-container1 {
+  position: absolute;
+  top: 798px;
+  left: 455px;
+  text-decoration: underline;
+  line-height: 122.02%;
+  font-weight: 300;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 345px;
+  height: 28px;
+  font-size: var(--font-size-xl);
+}
+.international-yoga-day-container1 {
+  top: 831px;
+}
+.music-classes-photos-container,
+.music-classes-report-container,
+.photo-and-reels-container,
+.photo-and-reels-container1,
+.rangoli-workshop-photos-container {
+  position: absolute;
+  top: 917px;
+  left: 490px;
+  text-decoration: underline;
+  line-height: 122.02%;
+  font-weight: 300;
+  color: inherit;
+  display: inline-block;
+  font-size: var(--font-size-xl);
+  width: 334px;
+  height: 44px;
+}
+.music-classes-photos-container,
+.music-classes-report-container,
+.photo-and-reels-container1,
+.rangoli-workshop-photos-container {
+  top: 942px;
+  left: 490px;
+}
+.music-classes-photos-container,
+.music-classes-report-container,
+.rangoli-workshop-photos-container {
+  top: 975px;
+  left: 490px;
+  width: 261px;
+  height: 39px;
+}
+.music-classes-report-container,
+.rangoli-workshop-photos-container {
+  top: 999px;
+  left: 490px;
+  height: 42px;
+}
+.rangoli-workshop-photos-container {
+  top: 1035px;
+  left: 490px;
+  width: 279px;
+  height: 41px;
+  font-size: var(--font-size-xl);
+}
+.meraki-wall-painting-container {
+  top: 742px;
+  left: 955px;
+  width: 425px;
+  height: 41px;
+  font-size: var(--font-size-xl);
+}
+.blood-donation-drive-container,
+.meraki-wall-painting-container,
+.meraki-wall-painting-container1 {
+  position: absolute;
+  text-decoration: underline;
+  line-height: 122.02%;
+  font-weight: 300;
+  color: inherit;
+  display: inline-block;
+}
+.meraki-wall-painting-container1 {
+  top: 768px;
+  left: 955px;
+  width: 425px;
+  height: 17px;
+  font-size: var(--font-size-xl);
+}
+.blood-donation-drive-container {
+  top: 817px;
+  left: 955px;
+  width: 328px;
+  font-size: var(--font-size-xl);
+}
+.anti-tobacco-poster-making-container,
+.anti-tobacco-poster-making-container1,
+.blood-donation-drive-container1,
+.kalakari-photos,
+.kalakari-report {
+  position: absolute;
+  top: 850px;
+  left: 955px;
+  text-decoration: underline;
+  line-height: 122.02%;
+  font-weight: 300;
+  color: inherit;
+  display: inline-block;
+  width: 328px;
+  height: 29px;
+  font-size: var(--font-size-xl);
+}
+.anti-tobacco-poster-making-container,
+.anti-tobacco-poster-making-container1,
+.kalakari-photos,
+.kalakari-report {
+  top: 901px;
+  left: 955px;
+  width: 189px;
+  height: 41px;
+}
+.anti-tobacco-poster-making-container,
+.anti-tobacco-poster-making-container1,
+.kalakari-report {
+  top: 927px;
+  left: 955px;
+}
+.anti-tobacco-poster-making-container,
+.anti-tobacco-poster-making-container1 {
+  top: 968px;
+  width: 391px;
+  height: 68px;
+}
+.anti-tobacco-poster-making-container1 {
+  top: 1039px;
+  left: 955px;
+  height: 28px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 376px;
+  left: 1091px;
+  width: 284px;
+  height: 279px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.activities-conducted-by {
+  position: absolute;
+  top: 691px;
+  left: 481px;
+  font-size: var(--font-size-xl);
+  line-height: 122.02%;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  text-align: center;
+  display: inline-block;
+  width: 915px;
+  height: 43px;
+}
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  position: absolute;
+  height: 265px;
+  object-fit: cover;
+}
+.image-4-icon {
+  top: 383px;
+  left: 1648px;
+  width: 268px;
+  mix-blend-mode: darken;
+}
+.image-3-icon,
+.image-5-icon {
+  top: 390px;
+  left: 1418px;
+  width: 194px;
+}
+.image-3-icon {
+  top: 385px;
+  left: 61px;
+  width: 244px;
+}
+.all-india-council-for-technica-icon,
+.vesit-logo-1-icon {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  width: 130px;
+  height: 159px;
+  object-fit: cover;
+}
+.all-india-council-for-technica-icon {
+  left: 1744px;
+  width: 172px;
+}
+.yoga-day-photos-container,
+.yoga-day-reports {
+  position: absolute;
+  top: 859px;
+  left: 490px;
+  text-decoration: underline;
+  line-height: 122.02%;
+  font-weight: 300;
+  color: inherit;
+  font-size: var(--font-size-xl);
+  text-align: center;
+}
+.yoga-day-reports {
+  top: 890px;
+  left: 520px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+}
+.rectangle-parent {
+  position: relative;
+  width: 100%;
+  height: 1273px;
+  text-align: left;
+  font-size: var(--font-inherit);
+  color: var(--color-black);
+  font-family: var(--font-inherit);
+}

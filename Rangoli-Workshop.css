@@ -1,0 +1,52 @@
+.event {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .partner-logo{
+    margin: 2vh 2vh;  
+  }
+  .event-header {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    width: 60%;
+  }
+  
+  .event-heading {
+    font-size: 2.5rem;
+  }
+  
+  .event-subheading {
+    font-size: 1.5rem;
+  }
+  
+  .event-description {
+    font-size: 1rem;
+  }
+  
+  
+  
+  .event-poster {
+    width: 30%;
+    object-fit: cover;
+    
+  }
+  .image{
+    height: 15vw;
+    width: 30vw;
+    flex-direction: row;
+    display: flex;
+margin: 2vh 3vh;  
+justify-content: space-between;
+  }
+  .image2{
+    height: 15vw;
+    width: 30vw;
+    flex-direction: row;
+    display: flex;
+margin: 2vh 3vh;  
+justify-content: space-between;
+  }
